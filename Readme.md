@@ -42,7 +42,6 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tiyupaladiya" alt="Tiya's GitHub Stats" />
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiyupaladiya&theme=tokyonight&hide_border=true" alt="Tiya's Streak" />
 </p>
@@ -63,9 +62,5 @@
 
 ---
 
-## ✨ Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
 
 
