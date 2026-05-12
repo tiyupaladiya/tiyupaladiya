@@ -42,9 +42,9 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Tiya's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=tiyupaladiya" alt="Tiya's GitHub Stats" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Tiya's Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiyupaladiya&theme=tokyonight&hide_border=true" alt="Tiya's Streak" />
 </p>
 
 ### 🐍 Snake Eating My Contributions
@@ -68,6 +68,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/height=100&type=waving&color=8957E5&section=footer" />
-</p>
+
