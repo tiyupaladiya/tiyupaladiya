@@ -6,7 +6,7 @@
 
 ## 🌌 About Me
 * 🎓 **Completed BSc (CS)** from **Aatmanand Saraswati College**
-* 🧠 **Passionate about:** Artificial Intelligence, Machine Learning, Deep Learning, LLMs & Generative AI, Agentic AI Systems, Computer Vision & NLP, Cloud Computing & MLOps
+* 🧠 **Passionate about:** Artificial Intelligence, Machine Learning, Deep Learning, LLMs & Generative AI, Agentic AI Systems, Computer Vision & NLP, Cloud Computing & MLOps[cite: 3]
 
 ---
 
@@ -19,23 +19,23 @@
 </p>
 
 ### 🤖 AI / ML / Deep Learning
-- **Deep Learning:** ANN, CNN, RNN / LSTM / GRU, Backpropagation
-- **Computer Vision:** CNN Vision Pipelines, YOLO, Image Segmentation
-- **NLP & LLMs:** Tokenization, Transformers, GPT Architecture, Fine-Tuning (PEFT / LoRA / QLoRA)
-- **Agentic AI:** ReAct Framework, Multi-Agent Systems, Tool-Using Agents
+- **Deep Learning:** ANN, CNN, RNN / LSTM / GRU, Backpropagation[cite: 3]
+- **Computer Vision:** CNN Vision Pipelines, YOLO, Image Segmentation[cite: 3]
+- **NLP & LLMs:** Tokenization, Transformers, GPT Architecture, Fine-Tuning (PEFT / LoRA / QLoRA)[cite: 3]
+- **Agentic AI:** ReAct Framework, Multi-Agent Systems, Tool-Using Agents[cite: 3]
 
 ### 📊 Database & Backend
-- **SQL:** DBMS Architecture, Joins, Normalization, ACID Transactions
-- **NoSQL:** MongoDB, Vector Databases (Pinecone/Milvus)
-- **Python:** OOP, NumPy, Pandas, Scikit-Learn
+- **SQL:** DBMS Architecture, Joins, Normalization, ACID Transactions[cite: 3]
+- **NoSQL:** MongoDB, Vector Databases (Pinecone/Milvus)[cite: 3]
+- **Python:** OOP, NumPy, Pandas, Scikit-Learn[cite: 3]
 
 ---
 
 ## 💡 Currently Building
-- 🚀 **Agentic AI Systems:** Autonomous agents with long-term memory.
-- 🧠 **LLM Fine-tuning:** Optimizing models for specific domain expertise.
-- 👁 **Vision AI:** Real-time object detection and tracking pipelines.
-- ⚡ **MLOps:** Scalable deployment using Docker and AWS.
+- 🚀 **Agentic AI Systems:** Autonomous agents with long-term memory[cite: 3]
+- 🧠 **LLM Fine-tuning:** Optimizing models for specific domain expertise[cite: 3]
+- 👁 **Vision AI:** Real-time object detection and tracking pipelines[cite: 3]
+- ⚡ **MLOps:** Scalable deployment using Docker and AWS[cite: 3]
 
 ---
 
